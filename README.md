@@ -1,0 +1,1 @@
+# akka-cluster-node-registration
